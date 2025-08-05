@@ -1,0 +1,25 @@
+{
+  "model_type": "RandomForestClassifier",
+  "test_accuracy": 0.9995004995004995,
+  "n_features": 16,
+  "features": [
+    "Ammonia_mg_L",
+    "BOD_mg_L",
+    "DO_mg_L",
+    "Orthophosphate_mg_L",
+    "pH",
+    "Temperature_C",
+    "Nitrogen_mg_L",
+    "Nitrate_mg_L",
+    "CCME_Values",
+    "DO_BOD_ratio",
+    "N_Nitrate_ratio",
+    "Year",
+    "pH_Acidic",
+    "pH_Neutral",
+    "pH_Alkaline",
+    "Water_Quality_Score"
+  ],
+  "training_date": "2025-08-05T21:03:34.545425",
+  "windows_compatible": true
+}
